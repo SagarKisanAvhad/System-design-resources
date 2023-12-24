@@ -10,6 +10,7 @@
 - [Image Library](https://github.com/weeeBox/mobile-system-design/blob/master/exercises/image-library.md)
 
   ### Best resources:
+  - [20 System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I) - Neetcode youtube
   - [Grokking modern system design by educative](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
   - [Bytebytego](https://bytebytego.com/)
   - [Amazon builder library](aws.amazon.com/builders-library)
